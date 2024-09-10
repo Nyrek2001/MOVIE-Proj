@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+  
+}
+nav{
+  
+  padding: 10px 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  background:black;
+}
+nav ul li a{
+  color:#fff;
+  text-decoration: none;
+}
+nav ul{
+  width: 100%;
+  text-align: right;
+}
+nav ul li{
+  display: inline-block;
+  list-style: none;
+  margin: 10px 20px;
+
+}
+
+
+
